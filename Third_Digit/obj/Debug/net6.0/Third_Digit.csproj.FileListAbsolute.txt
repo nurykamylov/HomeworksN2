@@ -1,0 +1,15 @@
+C:\Users\нурик\Desktop\HomeworksN2\Third_Digit\bin\Debug\net6.0\Third_Digit.exe
+C:\Users\нурик\Desktop\HomeworksN2\Third_Digit\bin\Debug\net6.0\Third_Digit.deps.json
+C:\Users\нурик\Desktop\HomeworksN2\Third_Digit\bin\Debug\net6.0\Third_Digit.runtimeconfig.json
+C:\Users\нурик\Desktop\HomeworksN2\Third_Digit\bin\Debug\net6.0\Third_Digit.dll
+C:\Users\нурик\Desktop\HomeworksN2\Third_Digit\bin\Debug\net6.0\Third_Digit.pdb
+C:\Users\нурик\Desktop\HomeworksN2\Third_Digit\obj\Debug\net6.0\Third_Digit.csproj.AssemblyReference.cache
+C:\Users\нурик\Desktop\HomeworksN2\Third_Digit\obj\Debug\net6.0\Third_Digit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\нурик\Desktop\HomeworksN2\Third_Digit\obj\Debug\net6.0\Third_Digit.AssemblyInfoInputs.cache
+C:\Users\нурик\Desktop\HomeworksN2\Third_Digit\obj\Debug\net6.0\Third_Digit.AssemblyInfo.cs
+C:\Users\нурик\Desktop\HomeworksN2\Third_Digit\obj\Debug\net6.0\Third_Digit.csproj.CoreCompileInputs.cache
+C:\Users\нурик\Desktop\HomeworksN2\Third_Digit\obj\Debug\net6.0\Third_Digit.dll
+C:\Users\нурик\Desktop\HomeworksN2\Third_Digit\obj\Debug\net6.0\refint\Third_Digit.dll
+C:\Users\нурик\Desktop\HomeworksN2\Third_Digit\obj\Debug\net6.0\Third_Digit.pdb
+C:\Users\нурик\Desktop\HomeworksN2\Third_Digit\obj\Debug\net6.0\Third_Digit.genruntimeconfig.cache
+C:\Users\нурик\Desktop\HomeworksN2\Third_Digit\obj\Debug\net6.0\ref\Third_Digit.dll

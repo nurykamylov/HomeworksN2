@@ -1,0 +1,15 @@
+C:\Users\нурик\Desktop\HomeworksN2\Second_Digit\bin\Debug\net6.0\Second_Digit.exe
+C:\Users\нурик\Desktop\HomeworksN2\Second_Digit\bin\Debug\net6.0\Second_Digit.deps.json
+C:\Users\нурик\Desktop\HomeworksN2\Second_Digit\bin\Debug\net6.0\Second_Digit.runtimeconfig.json
+C:\Users\нурик\Desktop\HomeworksN2\Second_Digit\bin\Debug\net6.0\Second_Digit.dll
+C:\Users\нурик\Desktop\HomeworksN2\Second_Digit\bin\Debug\net6.0\Second_Digit.pdb
+C:\Users\нурик\Desktop\HomeworksN2\Second_Digit\obj\Debug\net6.0\Second_Digit.csproj.AssemblyReference.cache
+C:\Users\нурик\Desktop\HomeworksN2\Second_Digit\obj\Debug\net6.0\Second_Digit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\нурик\Desktop\HomeworksN2\Second_Digit\obj\Debug\net6.0\Second_Digit.AssemblyInfoInputs.cache
+C:\Users\нурик\Desktop\HomeworksN2\Second_Digit\obj\Debug\net6.0\Second_Digit.AssemblyInfo.cs
+C:\Users\нурик\Desktop\HomeworksN2\Second_Digit\obj\Debug\net6.0\Second_Digit.csproj.CoreCompileInputs.cache
+C:\Users\нурик\Desktop\HomeworksN2\Second_Digit\obj\Debug\net6.0\Second_Digit.dll
+C:\Users\нурик\Desktop\HomeworksN2\Second_Digit\obj\Debug\net6.0\refint\Second_Digit.dll
+C:\Users\нурик\Desktop\HomeworksN2\Second_Digit\obj\Debug\net6.0\Second_Digit.pdb
+C:\Users\нурик\Desktop\HomeworksN2\Second_Digit\obj\Debug\net6.0\Second_Digit.genruntimeconfig.cache
+C:\Users\нурик\Desktop\HomeworksN2\Second_Digit\obj\Debug\net6.0\ref\Second_Digit.dll
